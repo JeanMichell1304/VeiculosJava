@@ -25,5 +25,5 @@ O sistema contém as seguintes funcionalidades:
 
 # Saída Esperada
 
-  # Carro - Marca: Toyota, Modelo: Corolla, Ano: 2020, Número de Portas: 4
-  # Moto - Marca: Honda, Modelo: CB500, Ano: 2022, Cilindrada: 500cc
+   Carro - Marca: Toyota, Modelo: Corolla, Ano: 2020, Número de Portas: 4
+   Moto - Marca: Honda, Modelo: CB500, Ano: 2022, Cilindrada: 500cc
