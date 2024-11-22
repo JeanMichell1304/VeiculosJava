@@ -17,11 +17,17 @@ O sistema contém as seguintes funcionalidades:
 
 # Para iniciar o programa:
 
-1. Compile os arquivos:
-  javac Veiculo.java Carro.java Moto.java Main.java
+1. Compile o código:
+
+    ```bash
+    javac javac Veiculo.java Carro.java Moto.java Main.java
+    ```
 
 2. Execute o programa:
-  java Main
+
+    ```bash
+    java java Main
+    ```
 
 # Saída Esperada
 
